@@ -25,7 +25,7 @@ Whether it's building robust applications or diving into the world of software e
 
 ## 🎮 Socials
 
-- [Discord]((https://discord.gg/jeuUVHDh6k): A powerful Discord bot for managing servers with auto-role and command features.
+- [Discord](https://discord.gg/jeuUVHDh6k): A powerful Discord bot for managing servers with auto-role and command features.
 - [Instagram](https://www.instagram.com/vinni_ily_143/): An exciting game created using Unity, showcasing my skills in game design and programming.
 - [YouTube]([https://github.com/yourusername/your-web-app]https://www.youtube.com/@theextremez2.0?sub_confirmation=1): A fully functional web application built with React and Node.js.
 
