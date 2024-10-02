@@ -23,11 +23,11 @@ Whether it's building robust applications or diving into the world of software e
 
 ---
 
-## 🎮 Projects
+## 🎮 Socials
 
-- [Discord Bot](https://github.com/yourusername/your-discord-bot): A powerful Discord bot for managing servers with auto-role and command features.
-- [Game Development](https://github.com/yourusername/your-game): An exciting game created using Unity, showcasing my skills in game design and programming.
-- [Web Application](https://github.com/yourusername/your-web-app): A fully functional web application built with React and Node.js.
+- [Discord]((https://discord.gg/jeuUVHDh6k): A powerful Discord bot for managing servers with auto-role and command features.
+- [Instagram](https://www.instagram.com/vinni_ily_143/): An exciting game created using Unity, showcasing my skills in game design and programming.
+- [YouTube]([https://github.com/yourusername/your-web-app]https://www.youtube.com/@theextremez2.0?sub_confirmation=1): A fully functional web application built with React and Node.js.
 
 ---
 
@@ -35,30 +35,12 @@ Whether it's building robust applications or diving into the world of software e
 
 Feel free to reach out if you want to collaborate or hire me for a project!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [vinaybeluga@gmail.com](vinaybeluga@gmail.com)
+- **LinkedIn**: [linkedin.com/in/vinay-kumar-tec/](https://www.linkedin.com/in/vinay-kumar-tec/)
+- **YouTube**: [@theextremez2.0](https://www.youtube.com/@theextremez2.0?sub_confirmation=1)
 
 ---
 
 ## 🚀 Let's Code Together!
 
 I'm always on the lookout for exciting opportunities to learn and grow. Let's create something amazing together!
-
-<style>
-body {
-    background-color: #121212;
-    color: #00ff00;
-    font-family: 'Courier New', Courier, monospace;
-}
-h1, h2 {
-    text-shadow: 0 0 10px rgba(0, 255, 0, 0.8);
-}
-a {
-    color: #00ff00;
-}
-a:hover {
-    color: #ff00ff;
-}
-</style>
-
