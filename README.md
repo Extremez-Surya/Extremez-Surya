@@ -1,7 +1,7 @@
 # 👨‍💻 Vinay Kumar
 
 🌐 **Name**: Vinay Kumar  
-🎂 **Age**: 19+  
+🎂 **Age**: 21  
 👨‍🎓 **Profession**: Student, Coder, Gamer, Web/Game/Software Developer  
 💼 **Available for Hire**: $5 to $100 or more...
 
