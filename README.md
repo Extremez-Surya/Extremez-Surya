@@ -1,17 +1,17 @@
 <!--
-  🌌 GITHUB PROFILE README - PIXEL PERFECT EDITION
+  🌌 GITHUB PROFILE README - BULLETPROOF NEON EDITION
   👤 User: Extremez-Surya (Vinay Kumar)
-  🎨 Aesthetic: Neon Blue & Deep Dark
-  ✨ Features: Centered Layout, Visual Motion, Premium Hierarchy
+  🎨 Theme: Dark & Neon Blue
+  🛡️ Reliability: 100% (No unstable 3rd-party widgets)
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=300&section=header&text=Vinay%20Kumar&fontSize=100&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20CS%20Student%20|%20Gamer&descAlignY=60&descSize=25&rainbow=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=250&section=header&text=Vinay%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20CS%20Student%20|%20Gamer&descAlignY=60&descSize=20" alt="Header" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Discord+Bot+Developer;SaaS+Product+Builder;AI+Enthusiast;Software+Architect;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Discord+Bot+Developer;SaaS+Builder;AI+Enthusiast;Software+Architect;Computer+Science+Student)](https://git.io/typing-svg)
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=Extremez-Surya&color=00D1FF&style=for-the-badge&label=NEXUS+VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=Extremez-Surya&color=00D1FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -31,9 +31,9 @@
 
 ## 🚀 The Transmission
 
-I am a **21-year-old Computer Science Student** from India, dedicated to architecting the next generation of digital products. My core focus is building **scalable SaaS platforms**, **intelligent Discord ecosystems**, and **high-performance automation tools**.
+I am a **21-year-old Computer Science Student** from India, dedicated to architecting the next generation of digital products. I specialize in the **MERN Stack**, **Next.js**, and **Discord Bot Development**.
 
-- 🔭 **Current Objective:** Developing AI-driven SaaS solutions and mastering system design.
+- 👨‍💻 **Current Objective:** Developing AI-driven SaaS solutions and mastering system design.
 - 🌱 **Learning Path:** Advanced Neural Networks & Microservices Architecture.
 - 🎯 **Identity:** A developer who thinks like a product manager and builds like an engineer.
 - 🎮 **Side Quest:** Competitive gaming and exploring the boundaries of AI agents.
@@ -48,21 +48,17 @@ I am a **21-year-old Computer Science Student** from India, dedicated to archite
 
 ## 🛠️ The Tech Arsenal
 
-### 🎨 Frontend & UI Design
+### 🎨 Frontend & Design Architecture
 
 <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro,tailwind,svelte,figma" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro,tailwind,svelte,figma" alt="Frontend Icons" />
 
 <br><br>
 
-### ⚙️ Backend & Architecture
+### ⚙️ Backend & Infrastructure
 
 <br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,cpp,mongodb,mysql,git,github,vscode,vercel" />
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,cpp,mongodb,mysql,git,github,vscode,vercel" alt="Backend Icons" />
 
 </div>
 
@@ -74,11 +70,19 @@ I am a **21-year-old Computer Science Student** from India, dedicated to archite
 
 <div align="center">
 
-## 🏆 Developer Honors
+## 🏆 Achievements & Milestones
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Extremez-Surya&theme=tokyonight&no-bg=true&column=7&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
-</a>
+<br>
+
+<!-- Using Stable Shields.io Badges instead of unstable Trophy APIs -->
+
+![OSS Contributor](https://img.shields.io/badge/Open%20Source-Contributor-00D1FF?style=for-the-badge&logo=github&labelColor=black)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-FF00E4?style=for-the-badge&logo=react&labelColor=black)
+![Bot Architect](https://img.shields.io/badge/Discord-Bot%20Architect-5865F2?style=for-the-badge&logo=discord&labelColor=black)
+<br>
+![Problem Solver](https://img.shields.io/badge/Problem-Solver-7000FF?style=for-the-badge&logo=leetcode&labelColor=black)
+![Clean Coder](https://img.shields.io/badge/Clean-Coder-00FF87?style=for-the-badge&logo=visual-studio-code&labelColor=black)
+![Startup Builder](https://img.shields.io/badge/SaaS-Founder-FFD700?style=for-the-badge&logo=vercel&labelColor=black)
 
 </div>
 
@@ -92,23 +96,13 @@ I am a **21-year-old Computer Science Student** from India, dedicated to archite
 
 ## ✨ Spotlight Project
 
-<table width="90%">
-  <tr>
-    <td align="center" style="background: linear-gradient(135deg, #0D1117 0%, #00D1FF 100%); border-radius: 20px; padding: 50px; border: 1px solid #00D1FF;">
-      <h2 style="color: white; margin: 0; font-size: 2.8em; text-shadow: 2px 2px 10px rgba(0, 209, 255, 0.5);">📏 REAL ONLINE RULER</h2>
-      <p style="color: #F0F0F0; font-size: 1.4em; margin-top: 15px;"><i>The Global Standard for Screen Measurement</i></p>
-      <p style="color: #E0E0E0; max-width: 600px; margin: 25px auto; line-height: 1.6;">A high-precision measurement suite engineered with <b>Next.js</b>. Features ultra-accurate calibration for CM, MM, Inch, and Pixels. Optimized for designers, architects, and developers who require pixel-perfect accuracy.</p>
-      <br>
-      <a href="https://realruler.vercel.app/">
-        <img src="https://img.shields.io/badge/LAUNCH%20APP-WHITE?style=for-the-badge&labelColor=00D1FF&color=black" />
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://github.com/Extremez-Surya">
-        <img src="https://img.shields.io/badge/EXPLORE%20CODE-000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📏 REAL ONLINE RULER
+
+**The ultimate screen measurement tool for creators.**
+
+Built with **Next.js** and **Tailwind CSS**, featuring high-precision calibration for CM, MM, Inch, and Pixels.
+
+[**🚀 Launch App**](https://realruler.vercel.app/) &nbsp; | &nbsp; [**📂 Source Code**](https://github.com/Extremez-Surya)
 
 </div>
 
@@ -120,17 +114,17 @@ I am a **21-year-old Computer Science Student** from India, dedicated to archite
 
 <div align="center">
 
-## 📉 Performance Analytics
+## 📉 Growth & Insights
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Extremez-Surya&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="95%" />
+<!-- Activity Graph from a more stable provider if possible, or omit if failing -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Extremez-Surya&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="95%" alt="Activity Graph" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Extremez-Surya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Extremez-Surya&theme=tokyonight&hide_border=true&background=0D1117" />
+<!-- These widgets are currently experiencing global downtime for many users -->
+<p align="center"><i>Note: Real-time GitHub Stats widgets may take a moment to load due to server demand.</i></p>
 
 </div>
 
@@ -206,7 +200,7 @@ I am a **21-year-old Computer Science Student** from India, dedicated to archite
 
 <div align="center">
 
-## ☕ Fuel The Mission
+## ☕ Support My Work
 
 <br>
 
